@@ -18,9 +18,6 @@
 <a href='https://github.com/hrishi82/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi82&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&theme=radical' alt="hrishi82" height="200"></img></a>
 
 
-<a href='https://github.com/hrishi82/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=hrishi82&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21' alt="hrishi82"></img></a>
-</div>
-
 ## Connect with me
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-barman-76b0bb105/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/something_JS)
